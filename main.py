@@ -1,3 +1,3 @@
 def doubleLast(j):
-    j.append(j[-1])
-
+    j.append(-1)
+    return j
