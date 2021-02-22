@@ -1,1 +1,3 @@
-#WRITE YOUR CODE IN THIS FILE
+def doubleLast(j):
+    j.append(j[-1])
+
